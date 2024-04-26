@@ -1,18 +1,9 @@
 - category: Blogs
   items:
-    - title: Example
+    - title: SY's Development Blog
       url: https://www.example.com
-      icon: ri:film-fill # Icons are optional.
-      tag: New
-
-    - title: Example 2
-      url: https://www.example.org
-      icon: simple-icons:googlenews
-
-- category: Products
-  items:
-    - title: Example 3
-      url: https://www.example.com
+      icon: simple-icons:googlenews # Icons are optional.
+      tag: Blog
 
 - category: Works
   items:
